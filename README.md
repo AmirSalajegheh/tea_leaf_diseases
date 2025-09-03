@@ -55,31 +55,6 @@ pip install -r requirements.txt
 After installing the requirements, you can run the detection and training scripts provided in the repository. Place your input images in the `Data` folder and the trained model `best.pt` is also stored there.
 
 
-
-## Folder Structure
-
-
-
-```
-
-E:\\programming\\projects\\tea\_leaf\_diseases
-
-│   main.py
-
-│   training.ipynb
-
-└───Data
-
-&nbsp;       best.pt
-
-&nbsp;       input.jpg
-
-&nbsp;       result.jpg
-
-```
-
-
-
 ## 👨‍💻 Author
 
 
