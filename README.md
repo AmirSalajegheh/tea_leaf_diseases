@@ -1,4 +1,4 @@
-\# Tea Leaf Disease Detection
+# Tea Leaf Disease Detection
 
 
 
@@ -6,19 +6,19 @@ This project detects diseases on tea leaves using a YOLO-based object detection 
 
 
 
-\## Features
+## Features
 
 
 
-\* Detect multiple tea leaf diseases in images.
+* Detect multiple tea leaf diseases in images.
 
-\* Use YOLOv8 for object detection.
+* Use YOLOv8 for object detection.
 
-\* Easy to train on custom datasets.
+* Easy to train on custom datasets.
 
 
 
-\## Installation
+## Installation
 
 
 
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 
 
-\## Usage
+## Usage
 
 
 
@@ -56,7 +56,7 @@ After installing the requirements, you can run the detection and training script
 
 
 
-\## Folder Structure
+## Folder Structure
 
 
 
@@ -80,11 +80,11 @@ E:\\programming\\projects\\tea\_leaf\_diseases
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 
 
-Developed by \*\*Amir Salajegheh\*\* 🚀
+Developed by **Amir Salajegheh** 🚀
 
 
 
