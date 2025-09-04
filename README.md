@@ -18,9 +18,7 @@ The model is trained on the **Tea Leaf Diseases Dataset**, which contains images
 
 **🖼️ Dataset Samples:**
 
-![Sample 1](Data/sample1.jpg)
-![Sample 2](Data/sample2.jpg)
-![Sample 3](Data/sample3.jpg)
+<img src="Data/sample1.jpg" width="300px">    <img src="Data/sample2.jpg" width="300px">    <img src="Data/sample3.jpg" width="300px">
 
 ---
 
@@ -60,7 +58,8 @@ python main.py
 ```
 
 * The output image with detected diseases will be saved in `Data/result.jpg`.
-![Input Image](Data/input.jpg)    ![Result Image](Data/result.jpg)
+
+<img src="Data/input.jpg" width="300px">    <img src="Data/result.jpg" width="300px">
 ---
 
 ## 👨‍💻 Author
